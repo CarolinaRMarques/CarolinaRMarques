@@ -2,9 +2,8 @@
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
 <p align="center">
-  <img  width=250 src="https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
+  <img  src="img/hello.gif">
 </p>
-<h1 align="center">Hi 👋, I'm Carolina Marques</h1>
 
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
