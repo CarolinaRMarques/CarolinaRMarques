@@ -17,4 +17,4 @@
  
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:carolinaresendemarques@gmail.com">![carolinaresendemarques@hotmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="mailto:carolinaresendemarques@gmail.com">![carolinaresendemarques@hotmail.com](https://img.shields.io/badge/My-email-yellow.svg)</a> 
